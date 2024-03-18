@@ -6,7 +6,3 @@ document.addEventListener('DOMContentLoaded', () => {
     var newHeader = document.getElementById('victory');
     newHeader.textContent = 'Whitney is the champion';
 });
-// document.addEventListener('DOMContentLoaded', () => {
-//     const newHeader = document.getElementById('victory');
-//     newHeader.textContent = 'Whitney is the champion';
-// });
